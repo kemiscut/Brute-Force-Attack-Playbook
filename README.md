@@ -12,5 +12,16 @@ This playbook applies to all brute force attack incidents targeting Acme’s sys
 
 ![Brute force playbook](Brute_force_Playbook.png)
 
+### Assets:
+- SecGuard Log Analyzer: Monitors and analyzes login attempt logs.
+- SecLogDB: Centralized log storage.
+- SecGuard Threat Analyzer: Tool for identifying malicious patterns.
+- Acme Mobile Banking App: Fictitious mobile banking platform.
+- AcmeNet Firewall: Firewall to block malicious IPs.
+- SecGuard UserDB: Stores user account information.
+- AcmePatch Management System: System for managing patches and updates.
+- AcmeMail/AcmeUserNotification: Systems for sending user alerts and notifications.
+
+**NOTE** that Acme is a not a real company and it was created just for the sake of this project.
 
 
