@@ -5,8 +5,12 @@ It incorporates Acme-specific configurations, such as customized authentication 
 
 ### Scope
 This playbook applies to all brute force attack incidents targeting Acme’s systems, including but not limited to:
-•	Customer login portals.
-•	Administrative panels.
-•	APIs.
-•	Backend authentication mechanisms.
+- Customer login portals.
+- Administrative panels.
+- APIs.
+- Backend authentication mechanisms.
+
+![Brute force playbook](Brute_force_Playbook.png)
+
+
 
