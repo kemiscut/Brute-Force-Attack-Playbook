@@ -22,7 +22,7 @@ This playbook applies to all brute force attack incidents targeting Acme’s sys
 
 **NOTE** that Acme is a not a real company and it was created just for the sake of this project.
 
-![Brute force playbook](Brute_force_Playbook.png)
+![Brute force playbook](brute_force_playbook.jpg)
 
 
 
